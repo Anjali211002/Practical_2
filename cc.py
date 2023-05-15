@@ -1,1 +1,1 @@
-print("Hello, Welcome to CC practical2")
+print("Hello woeld, Welcome to CC practical2")
